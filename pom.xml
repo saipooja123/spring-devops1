@@ -13,7 +13,7 @@
 
 	<groupId>spring-devops1</groupId>
 	<artifactId>spring-devops1</artifactId>
-	<version>0.0.3-SNAPSHOT</version>
+	<version>0.0.5-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>spring-devops1</name>
 	<description>Devops</description>
