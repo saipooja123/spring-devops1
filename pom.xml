@@ -13,7 +13,7 @@
 
 	<groupId>spring-devops1</groupId>
 	<artifactId>spring-devops1</artifactId>
-	<version>0.0.4-SNAPSHOT</version>
+	<version>0.0.4</version>
 	<packaging>war</packaging>
 	<name>spring-devops1</name>
 	<description>Devops</description>
@@ -38,7 +38,7 @@
 		<connection>scm:git:git@github.com:saipooja123/spring-devops1.git</connection>
 		<developerConnection>scm:git:git@github.com:saipooja123/spring-devops1.git</developerConnection>
 		<url>git@github.com:saipooja123/spring-devops1.git</url>
-		<tag>HEAD</tag>
+		<tag>v0.0.4</tag>
 	</scm>
 	<dependencies>
 		<dependency>
